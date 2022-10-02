@@ -1,4 +1,4 @@
-Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance computing.
+Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance scientific computing.
 
 
 
