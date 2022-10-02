@@ -1,6 +1,13 @@
 Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance scientific computing.
 
+#### Languages
+![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 
+#### Website
+[http://flowphysics.com/](http://flowphysics.com/)
 
 <!--
 **rajesh-ae/rajesh-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
