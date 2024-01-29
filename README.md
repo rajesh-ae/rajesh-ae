@@ -7,7 +7,7 @@ Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dyn
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 
 #### Website
-[http://flowphysics.com/](http://flowphysics.com/)
+[https://flowphysics.com/](https://flowphysics.com/)
 
 <!--
 **rajesh-ae/rajesh-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
