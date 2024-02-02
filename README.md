@@ -1,4 +1,4 @@
-Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance scientific computing. Currently, I am exploring AI/ML/Deep Learning space. 
+Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance scientific computing. Currently, I am exploring the AI/ML/Deep Learning space. 
 
 #### Languages
 ![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
