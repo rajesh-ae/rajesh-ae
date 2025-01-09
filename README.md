@@ -1,9 +1,9 @@
 Hi 👋, I am Rajesh. I am a computational scientist with a variety of interests. My core training and expertise is in fluid dynamics, numerical methods and high-performance scientific computing. I have transitioned to lead software development for Cybersecurity and Bioinformatics startups. Currently, I am developing software in these domains utilising Semantic technologies and Knowledge Graphs. 
 
 #### Languages
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 
 #### Website
