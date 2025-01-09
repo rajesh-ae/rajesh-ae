@@ -1,4 +1,4 @@
-Hi 👋, I am Rajesh. I am a computational scientist with interests in fluid dynamics, numerical methods and high-performance scientific computing. Currently, I am exploring the AI/ML/Deep Learning space. 
+Hi 👋, I am Rajesh. I am a computational scientist with a variety of interests. My core training and expertise is in fluid dynamics, numerical methods and high-performance scientific computing. I have transitioned to lead software development for Cybersecurity and Bioinformatics startups. Currently, I am developing software in these domains utilising Semantic technologies and Knowledge Graphs. 
 
 #### Languages
 ![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
